@@ -1,34 +1,59 @@
 *{
-    margin: auto;
+    margin: 0;
+    
+    border: none;
     background-color: #edf7ff;
+    
+}
+hr{
+    padding: 5px;;
+    background-color: #8a9af1;
 }
 h1{
     font-family: 'MuseoModerno';
-    font-size: 52px;
+    font-size: 117px;
     color: #0a2ff1;
+    padding-bottom: none;
+}
+main{
+    margin-left: 10%;
+    width: 900px;
 }
 main h2{
     font-family: 'Asap';
     font-size: 52px;
     font-weight: 100;
     color: #0a2ff1;
+    padding-bottom: 100px;
 }
 main p{
     font-family: 'Asap';
     font-size: 33px;
     color: #04146c;
+    justify-content: left;
+    padding-bottom: 50px;
+    
+    
 }
 section h3{
     font-family: 'MuseoModerno';
     color: #0a2ff1;
+    font-size: 48px;
+    padding-bottom: 30px;
 }
 section ul {
     font-family: 'Asap';
     font-size: 33px;
     color:#04146c;
 }
+section ul li{
+    
+    padding-bottom: 20px;
+}
 footer h2{
+    
     font-family: 'MuseoModerno';
     font-size: 198px;
-    color:#04146c;
+    color:#8a9af1;
+    
 }
