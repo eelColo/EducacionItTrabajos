@@ -1,0 +1,36 @@
+*{
+    margin: none;
+    border: none;
+    padding: auto;
+}
+body{
+    width: 800px;
+}
+header  h1{
+    border: none;
+    margin: 0%;
+    font-family: 'poppins';
+    font-weight: 700px;
+    font-size: 78px;
+    color: #0a2ff1;
+    
+}
+span{
+    background-color: #3ffff3;
+}
+main p{
+    font-family: 'poppins';
+    font-weight: 500px;
+    color: #0a2ff1;
+    font-size: 30px;
+}
+footer img{
+    
+    margin: none;
+    border: none;
+    padding: none;
+    background-image: url(fondo.JPG) ;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: 730px 700px;
+}
