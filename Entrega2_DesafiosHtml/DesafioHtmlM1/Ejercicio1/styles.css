@@ -1,0 +1,34 @@
+*{
+    margin: auto;
+    background-color: #edf7ff;
+}
+h1{
+    font-family: 'MuseoModerno';
+    font-size: 52px;
+    color: #0a2ff1;
+}
+main h2{
+    font-family: 'Asap';
+    font-size: 52px;
+    font-weight: 100;
+    color: #0a2ff1;
+}
+main p{
+    font-family: 'Asap';
+    font-size: 33px;
+    color: #04146c;
+}
+section h3{
+    font-family: 'MuseoModerno';
+    color: #0a2ff1;
+}
+section ul {
+    font-family: 'Asap';
+    font-size: 33px;
+    color:#04146c;
+}
+footer h2{
+    font-family: 'MuseoModerno';
+    font-size: 198px;
+    color:#04146c;
+}
