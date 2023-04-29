@@ -1,0 +1,18 @@
+.im{
+    margin-left: 350px;
+    margin-right: 350px;
+}
+
+img {
+    vertical-align: middle;
+    margin-left: 30px;
+    width: 100px;
+}
+p{
+    
+    text-align: center;
+    font-family: 'poppins';
+    color:  #0a2ff1;
+    font-size: 32px;
+    font-weight: 300px;
+}
