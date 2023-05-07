@@ -31,18 +31,18 @@ div{
     background-position:top center;
 }
 form{
-   
+    
     text-align: center;
     padding: 20px;
-    width: 80%;
+    width: 600px;
     height: 400px;
     background-color: white;
     font-family: 'Mulish', sans-serif;
     
 }
-input, button{
+input{
     
-    margin: 0%;
+    
     border: 1px solid #414166;
     font-family: 'Mulish', sans-serif;
     font-size: 22px;
@@ -52,11 +52,12 @@ input, button{
     margin-bottom: 10px;
 }
 button{
-    
+    width: 500px;
+    height: 50px;
     color: white;
     background-color:  #15163d;
     font-family: 'Mulish', sans-serif;
     font-size: 22px;
     font-weight: 600px;
-    
+    margin-bottom: 10px;
 }
