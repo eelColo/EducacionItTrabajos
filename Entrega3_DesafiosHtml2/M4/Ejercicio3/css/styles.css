@@ -6,6 +6,23 @@
     font-family: 'Roboto', sans-serif;
 
 }
+header{
+    background-image: url(recursos/M4\ -\ Desafío3_img-header.png);
+    height: 700px;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+img{
+    width: 90%;
+    display: block;
+    
+    
+        
+}
+div{
+    margin-left: 5%;
+}
 body{
     border: 5px solid gray;
     margin: auto;
@@ -29,14 +46,16 @@ h1{
 p{
   font-weight: 400px;
   font-size: 25px;  
-  margin-left: 80px;
+  
+  
 }
 .parrafot{
     font-size: 25px;
     font-weight:700px;
     color: #0a2ff1;
 }
-.parrafot{
+.parrafofoot{
+    margin-left: 5%;
     font-size: 24px;
 }
 
@@ -52,15 +71,10 @@ button{
     margin-bottom: 10px;
     background-color:  #0a2ff1;
 
-    margin-left: 80px;
+    margin-left: 5%;
 }
 
-img{
-    width: 80%;
-    display: block;
-    margin: auto;
-    
-}
+
 
 footer{
     width: 100%;
