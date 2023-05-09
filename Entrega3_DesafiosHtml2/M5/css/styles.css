@@ -129,6 +129,12 @@ button{
 }
 .nav2{
     width: 7%;
-        
-
+}
+h3{
+    font-family: 'Roboto Slab', serif;
+    font-size: 45px;
+    font-weight: 700px;
+    color: #2c00cc;
+    margin: 15px;
+    width: 60%;
 }
