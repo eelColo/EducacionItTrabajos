@@ -138,3 +138,45 @@ h3{
     margin: 15px;
     width: 60%;
 }
+
+/*---------------------------------------------*/
+/*EJercicio3*/
+
+.ejercicio3{
+    width: 60%;
+    margin-left: 5%;
+}
+.ejercicio3 h1{
+    
+    margin-top: 20px;
+    font-family: 'Roboto Slab', serif;
+    font-size: 45px;
+    font-weight: 700px;
+    color: #0a2ff1;
+}
+.ejercicio3 p{
+    margin-top: 20px;
+    font-family: 'Roboto', serif;
+    font-size: 24px;
+    font-weight: 400px;
+    color: #04146c;
+}
+section{
+    background-image: url(recursos/M5-Desafio3-img.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+
+footer {
+    margin-top: 100px;
+    background-color: #0a2ff1;
+    width: 100%;
+    
+}
+footer img{
+    margin: 20px;
+    width: 30%;
+    height: 80%;
+}
