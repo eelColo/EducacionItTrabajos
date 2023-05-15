@@ -19,6 +19,8 @@ h1{
     margin-bottom: 20px;
 }
 div{
+    max-width: 700px;
+    min-width: 650px;
     /*
     Esto alinea el form en relacion al div
     */
@@ -29,6 +31,7 @@ div{
     height: 450px;
     background-image: url(recursos/M4-desafio1-fondo-form.png);
     background-position:top center;
+    
 }
 form{
     
