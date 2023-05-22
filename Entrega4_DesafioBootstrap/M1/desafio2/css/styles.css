@@ -35,10 +35,10 @@ p{
 /**El brackground size en cover hace que el background abarque toda la dimension del card y el height para que abarque el 100% del contenedor **/
 .card{
     
-    
+    background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    height: 100%;
+    height: 170px;
 
     
     
