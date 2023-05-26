@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,400;0,900;1,400&display=swap');
+/**
+Regular 400
+Regular 400 Italic
+Black 900
+**/
+*{
+    margin: auto;
+    padding: 0%;
+    box-sizing: border-box;
+}
+main{
+    margin-top: 50px;
+    width: 80%;
+}
+h1{
+    font-family: 'Source Sans 3', sans-serif;
+    font-size: 82px;
+    font-weight:bold;
+    color: #04146c;
+    
+}
+p{
+    font-family: 'Source Sans 3', sans-serif;
+    font-size: 21px;
+    font-weight: 400px;
+    color: #04146c;
+}
+img{
+    min-width: 350px;
+    width: 100%;
+}
+.btn{
+    background-color: #04146c;
+    color: white;
+    font-family: 'Source Sans 3', sans-serif;
+    font-size: 18px;
+    font-variant: small-caps;
+
+}
+.card-body{
+    margin-top: 50px;
+}
