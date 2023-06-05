@@ -26,6 +26,7 @@ h1{
 }
 .card{
     margin-left: 10px;
+    box-shadow: 4px 4px 5px rgba(0, 0, 0, 0.3) !important;
 }
 h2{
     font-family: 'Mulish', sans-serif;
@@ -35,7 +36,7 @@ h2{
     font-stretch: expanded;
 }
 
-img{
+div, img{
     
     width:100%;
     
