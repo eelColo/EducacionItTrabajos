@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+    padding: 0%;
+    margin: auto;
+}
+
+form{
+    background-color: gainsboro;
+    
+}
+h1{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-size: 2em;
+}
+input{
+    margin-bottom: 10px;
+}
+button{
+    margin: 10px;
+}
+main{
+    height: 100%;
+}
