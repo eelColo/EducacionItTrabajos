@@ -15,8 +15,8 @@ if(edad >= 18){
 var frm = document.getElementById('login')
 console.log(frm)
 frm = addEventListener('submit', event => {
-    event.stopImmediatePropagation
-    event.preventDefault
+    event.stopImmediatePropagation()
+    event.preventDefault()
     let forml = event.target
     console.log(frm)
     console.log(forml[1].value)
