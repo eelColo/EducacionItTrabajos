@@ -31,3 +31,15 @@ const tabladato = [
   flujocaja()
 
 
+  /*segundo ej*/
+  var interes = []
+
+  var ofertasCreditos = [["Plan 001", 150000, 30, 15], ["Plan 002", 300000, 180, 10], ["Plan 003", 485000, 60, 23]];
+
+  function obinteres(){
+    for(var e = 0; e < ofertasCreditos.length; e++){
+        interes = ofertasCreditos[e][1] * ofertasCreditos[e][2] * ofertasCreditos[e][3] / 100;
+        console.log("En el " + ofertasCreditos[e][0] + " hay un interés de: " + interes) 
+    }
+  }
+obinteres()
